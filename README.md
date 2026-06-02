@@ -1,2 +1,21 @@
-# Basic-Logic-Gate-Design
-Basic Logic Gate Design using Verilog HDL . this project implements fundamental digital logic gates including AND,OR,NOT,NAND,NOR,XOR gates along with simulation and verification
+# Basic Logic Gate Design
+
+Intern ID: CITS2588
+
+## Objective
+Design and implement basic logic gates using Verilog HDL.
+
+## Gates Implemented
+- AND Gate
+- OR Gate
+- NOT Gate
+- NAND Gate
+- NOR Gate
+- XOR Gate
+
+## Files
+- logic_gates.v
+- tb_logic_gates.v
+
+## Author
+Yuva Teja Sri Boyapati
